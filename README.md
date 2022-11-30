@@ -1,4 +1,4 @@
-# NFT Search App App
+# NFT Search App
 
 Simple app for searching NFTs by wallet address.
 
